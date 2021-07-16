@@ -1,0 +1,152 @@
+[
+   {
+      "id": 1,
+      "text": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+      "options": [
+         {
+            "value": "A",
+            "content": "Don’t dare to interrupt them",
+            "introvertPoint": 3,
+            "extrovertPoint": 0
+         },
+         {
+            "value": "B",
+            "content": "Think it’s more important to give them some of your time; work can wait",
+            "introvertPoint": 2,
+            "extrovertPoint": 1
+         },
+         {
+            "value": "C",
+            "content": "Listen, but with only with half an ear",
+            "introvertPoint": 1,
+            "extrovertPoint": 2
+         },
+         {
+            "value": "D",
+            "content": "Interrupt and explain that you are really busy at the moment",
+            "introvertPoint": 0,
+            "extrovertPoint": 3
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "text": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+      "options": [
+         {
+            "value": "A",
+            "content": "Look at your watch every two minutes",
+            "introvertPoint": 3,
+            "extrovertPoint": 0
+         },
+         {
+            "value": "B",
+            "content": "Bubble with inner anger, but keep quiet",
+            "introvertPoint": 2,
+            "extrovertPoint": 1
+         },
+         {
+            "value": "C",
+            "content": "Explain to other equally impatient people in the room that the doctor is always running late",
+            "introvertPoint": 1,
+            "extrovertPoint": 2
+         },
+         {
+            "value": "D",
+            "content": "Complain in a loud voice, while tapping your foot impatiently",
+            "introvertPoint": 0,
+            "extrovertPoint": 3
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "text": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+      "options": [
+         {
+            "value": "A",
+            "content": "Don’t dare contradict them",
+            "introvertPoint": 3,
+            "extrovertPoint": 0
+         },
+         {
+            "value": "B",
+            "content": "Think that they are obviously right",
+            "introvertPoint": 2,
+            "extrovertPoint": 1
+         },
+         {
+            "value": "C",
+            "content": "Defend your own point of view, tooth and nail",
+            "introvertPoint": 1,
+            "extrovertPoint": 2
+         },
+         {
+            "value": "D",
+            "content": "Continuously interrupt your colleague",
+            "introvertPoint": 0,
+            "extrovertPoint": 3
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "text": "You are taking part in a guided tour of a museum. You:",
+      "options": [
+         {
+            "value": "A",
+            "content": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+            "introvertPoint": 3,
+            "extrovertPoint": 0
+         },
+         {
+            "value": "B",
+            "content": "Follow the group without question",
+            "introvertPoint": 2,
+            "extrovertPoint": 1
+         },
+         {
+            "value": "C",
+            "content": "Make sure that everyone is able to hear properly",
+            "introvertPoint": 1,
+            "extrovertPoint": 2
+         },
+         {
+            "value": "D",
+            "content": "Are right up the front, adding your own comments in a loud voice",
+            "introvertPoint": 0,
+            "extrovertPoint": 3
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "text": "During dinner parties at your home, you have a hard time with people who:",
+      "options": [
+         {
+            "value": "A",
+            "content": "Ask you to tell a story in front of everyone else",
+            "introvertPoint": 3,
+            "extrovertPoint": 0
+         },
+         {
+            "value": "B",
+            "content": "Talk privately between themselves",
+            "introvertPoint": 2,
+            "extrovertPoint": 1
+         },
+         {
+            "value": "C",
+            "content": "Hang around you all evening",
+            "introvertPoint": 1,
+            "extrovertPoint": 2
+         },
+         {
+            "value": "D",
+            "content": "Always drag the conversation back to themselves",
+            "introvertPoint": 0,
+            "extrovertPoint": 3
+         }
+      ]
+   }
+]
