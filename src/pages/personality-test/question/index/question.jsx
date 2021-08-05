@@ -24,12 +24,9 @@ const Question = () => {
             <ProgressBar color={colors.pink} progressRatio={getProgressRatio()} />
          </Box>
          <Box mb={3}>
-            <QuestionCurrentInfo
-               currentIndex={questionState.currentIndex + 1}
-               questionCount={questionState.questions.length}
-            />
+            <QuestionCurrentInfo />
          </Box>
-         <QuestionText question={questionState.questions[questionState.currentIndex]} />
+         <QuestionText />
          <Box mb={3}>
             <QuestionOptions />
          </Box>

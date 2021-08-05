@@ -9,9 +9,6 @@ const Result = () => {
    const history = useHistory()
 
    const getTestResult = () => {
-      if (questionState.questions.length < 1) {
-         return 'INCOMPLETED'
-      }
       let introvert = 0
       let extrovert = 0
 
